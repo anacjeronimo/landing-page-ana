@@ -11,7 +11,7 @@ Criar uma página moderna, simples e profissional para mostrar meus serviços, c
 
 ## 🛠 Status do projeto
 🚧 **Projeto em desenvolvimento**  
-Ainda estou em desenvolvimento na área de front-end, e esta landing page é um dos meus projetos de prática e aperfeiçoamento. Continuarei aprimorando o design, a performance e as funcionalidades com o tempo.
+Estou em desenvolvimento na área de front-end, e esta landing page é um dos meus projetos de prática e aperfeiçoamento. Continuarei aprimorando o design, a performance e as funcionalidades com o tempo.
 
 ## 🔍 Link do projeto publicado
 ➡️ https://anacjeronimo.github.io/landing-page-ana/
